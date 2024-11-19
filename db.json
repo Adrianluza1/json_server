@@ -54,17 +54,8 @@
       "direccion_cliente": "202 Cedar St",
       "telefono_cliente": "555-3456",
       "cartera_id": 5
-    },
-    {
-      "id": "4f47",
-      "usuario_acceso": "Franco",
-      "correo": "Franco@gmail.com",
-      "contrasena_acceso": "12345",
-      "dni_cliente": "75986324",
-      "nombre_completo_cliente": "Franco Escamilla",
-      "direccion_cliente": "chorrillos",
-      "telefono_cliente": "986331456"
     }
+    
   ],
   "cartera": [
     {
@@ -127,20 +118,7 @@
           "tasaDescuentoAplicada": 0,
           "diasRestantesVencimiento": -738892
         },
-        {
-          "id": 863,
-          "fecha_emision": "0011-11-11",
-          "fecha_vencimiento": "0011-11-11",
-          "capital": 111,
-          "detalle_factura": "111",
-          "tasa_conversion_moneda": 1111,
-          "fecha_reporte": "0001-11-11",
-          "descripcion_factura": "111",
-          "monto_nominal": 111,
-          "monto_descuento_total": 11,
-          "tasa_descuento_aplicada": 1111,
-          "dias_restantes_vencimiento": 111
-        },
+        
         {
           "id": 303,
           "fecha_emision": "2024-11-18",
